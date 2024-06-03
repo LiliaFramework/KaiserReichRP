@@ -1,7 +1,17 @@
-# Lilia KaiserReichRP
- 
-KaiserReichRP is a roleplay schema for [Lilia](https://github.com/LiliaFramework/Lilia). Its aim is to provide a stable KaiserReichRP schema to start your server creation with.
+# KaiserReichRP
+
+KaiserReichRP is a roleplay schema for [Lilia](https://github.com/Lilia-Framework/Lilia). Its aim is to provide a stable KaiserReichRP schema to kickstart your server creation.
 
 # Support
 
-If you have any questions or need assistance with the schema, or if you would like to engage with the community, feel free to join our [Discord Server](https://discord.gg/52MSnh39vw). You can find us at this Discord invite link. We are ready to help and support you in any way we can.
+If you have any questions, need assistance with the schema, or want to engage with the community, feel free to join our Discord Server. You can find us at [this Discord invite link](https://discord.gg/52MSnh39vw). We are ready to help and support you in any way we can.
+
+# Contents
+
+- Alcoholic Drinks
+- Crafting
+- Door Kicking
+- Permanent Flags
+- Text Radios
+- Tying (Includes search functionality and custom animations)
+- Warrants

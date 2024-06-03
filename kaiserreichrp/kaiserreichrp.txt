@@ -1,0 +1,6 @@
+"kkrp"
+{
+	"base"		"lilia"
+	"title"		"kkrp"
+	"author"	"Leonheart"
+}
