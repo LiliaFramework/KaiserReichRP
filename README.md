@@ -5,11 +5,17 @@ KaiserReichRP is a roleplay schema for [Lilia](https://github.com/Lilia-Framewor
 # Contents
 
 - Alcoholic Drinks
-- Crafting
+
+- Craftin
+
 - Door Kicking
+
 - Permanent Flags
+
 - Text Radios
+
 - Tying (Includes search functionality and custom animations)
+
 - Warrants
 
 # Support
