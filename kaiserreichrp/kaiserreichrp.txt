@@ -1,6 +1,6 @@
-"kkrp"
+"kaiserreichrp"
 {
 	"base"		"lilia"
-	"title"		"kkrp"
+	"title"		"kaiserreichrp"
 	"author"	"Leonheart"
 }

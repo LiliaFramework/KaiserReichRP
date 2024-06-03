@@ -1,5 +1,5 @@
 file = {
-	"kkrp",
+	"kaiserreichrp",
 }
 
 dir = "docs/html"
