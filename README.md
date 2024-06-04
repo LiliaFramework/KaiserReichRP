@@ -1,6 +1,6 @@
 # KaiserReichRP
 
-KaiserReichRP is a roleplay schema for [Lilia](https://github.com/Lilia-Framework/Lilia). Its aim is to provide a stable KaiserReichRP schema to kickstart your server creation.
+KaiserReichRP is a roleplay schema for [Lilia](https://github.com/LiliaFramework/Lilia).
 
 # Contents
 
