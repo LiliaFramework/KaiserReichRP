@@ -6,11 +6,9 @@ KaiserReichRP is a roleplay schema for [Lilia](https://github.com/LiliaFramework
 
 - Alcoholic Drinks
 
-- Craftin
+- Crafting
 
 - Door Kicking
-
-- Permanent Flags
 
 - Text Radios
 
