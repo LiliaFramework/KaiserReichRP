@@ -1,6 +1,7 @@
 "kaiserreichrp"
 {
 	"base"		"lilia"
-	"title"		"kaiserreichrp"
-	"author"	"Leonheart"
+	"title"		"KaiserReichRP"
+	"author"	"Samael"
+	"category"	"rp"
 }
