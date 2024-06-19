@@ -1,4 +1,4 @@
-ITEM.name = "Apple"
+﻿ITEM.name = "Apple"
 ITEM.model = "models/foodnhouseholditems/apple.mdl"
 ITEM.desc = "A red apple. Delicious."
 ITEM.width = 1

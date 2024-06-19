@@ -1,4 +1,4 @@
-FACTION.name = "Citizen"
+﻿FACTION.name = "Citizen"
 FACTION.desc = "The average people among the city."
 FACTION.color = Color(15, 143, 33)
 FACTION.isDefault = true

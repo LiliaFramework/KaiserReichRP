@@ -1,4 +1,4 @@
-FACTION.name = "Sturmtruppler"
+﻿FACTION.name = "Sturmtruppler"
 FACTION.desc = "The German imperial army's elites."
 FACTION.color = Color(122, 7, 7)
 FACTION.weapons = {"tfa_nam_c96", "tfa_ww1_mp18"}

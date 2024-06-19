@@ -1,4 +1,4 @@
-ITEM.name = "Champagne"
+﻿ITEM.name = "Champagne"
 ITEM.model = "models/foodnhouseholditems/champagne2.mdl"
 ITEM.width = 1
 ITEM.height = 1

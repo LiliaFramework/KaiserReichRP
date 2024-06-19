@@ -1,4 +1,4 @@
-FACTION.name = "Feldgendarmerie"
+﻿FACTION.name = "Feldgendarmerie"
 FACTION.desc = "The police force of occupied Brussels."
 FACTION.color = Color(50, 100, 150)
 FACTION.weapons = {"tfa_pistolet_ruby"}

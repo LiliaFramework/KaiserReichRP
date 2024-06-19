@@ -1,4 +1,4 @@
-FACTION.name = "Kaiser"
+﻿FACTION.name = "Kaiser"
 FACTION.desc = "Emperor of occupied Belgium."
 FACTION.color = Color(163, 7, 7)
 FACTION.isDefault = false

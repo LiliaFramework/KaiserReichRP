@@ -1,4 +1,4 @@
-FACTION.name = "Deutsches Heer"
+﻿FACTION.name = "Deutsches Heer"
 FACTION.desc = "The German imperial army."
 FACTION.color = Color(122, 7, 7)
 FACTION.weapons = {"tfa_pistolet_ruby", "tfa_verdun_1886"}

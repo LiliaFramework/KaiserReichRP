@@ -1,4 +1,4 @@
-ITEM.name = "Pie"
+﻿ITEM.name = "Pie"
 ITEM.model = "models/foodnhouseholditems/pie.mdl"
 ITEM.desc = "A pie. Yummy..."
 ITEM.width = 1
