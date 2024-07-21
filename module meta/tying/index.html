@@ -2,13 +2,13 @@
 
 <html>
 	<head>
-		<title>Warrant - KaiserReich Documentation</title>
+		<title>Tying - KaiserReich Documentation</title>
 
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="Warrant - KaiserReich Documentation" />
+		<meta property="og:title" content="Tying - KaiserReich Documentation" />
 		<meta property="og:site_name" content="Lilia Documentation" />
 
-			<meta property="og:description" content="Configuration for Warrant Module." />
+			<meta property="og:description" content="Meta Tables for Tying." />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro" />
 		<link rel="stylesheet" href="../../ldoc.css" />
@@ -113,7 +113,7 @@ LockTable											</a>
 									</details>
 							</li>
 							<li>
-									<details >
+									<details open>
 									<summary><a href="../../module meta/tying/">Tying</a></summary>
 
 									<ul>
@@ -134,7 +134,7 @@ StartHandcuffAnim											</a>
 									</details>
 							</li>
 							<li>
-									<details open>
+									<details >
 									<summary><a href="../../module meta/warrant/">Warrant</a></summary>
 
 									<ul>
@@ -266,7 +266,7 @@ ToggleWanted											</a>
 									</details>
 							</li>
 							<li>
-									<details open>
+									<details >
 									<summary><a href="../../configurations/warrant/">Warrant</a></summary>
 
 									<ul>
@@ -284,83 +284,38 @@ ToggleWanted											</a>
 			<article>
 					<div class="wrapper">
 						<header class="module">
-	<h1>Warrant</h1>
-	<h2>Configuration for Warrant Module.</h2>
+	<h1>Tying</h1>
+	<h2>Meta Tables for Tying.</h2>
 </header>
 
 <p>
 
 </p>
 
-	<h1 class="title">Tables</h1>
+	<h1 class="title">Functions</h1>
 
 		<section class="method">
 			<header>
-				<a class="anchor" id="Configuration">
-					<h1><span class="realm shared"></span></span>Configuration</h1>
+				<a class="anchor" id="EndHandcuffAnim">
+					<h1><span class="realm server"></span></span>meta:EndHandcuffAnim()</h1>
 				</a>
 
-					<p>This table defines the default settings for the Warrant Module.</p>
+					<p>Ends the handcuff animation for the player by resetting bone angles.</p>
 			</header>
 
 
-					<h3>Fields</h3>
 
 
-					<ul>
+		</section>
+		<section class="method">
+			<header>
+				<a class="anchor" id="StartHandcuffAnim">
+					<h1><span class="realm server"></span></span>meta:StartHandcuffAnim()</h1>
+				</a>
 
-							<li>
-								<span class="tag parameter">WarrantedText</span>
+					<p>Starts the handcuff animation for the player by manipulating bone angles.</p>
+			</header>
 
-
-
-								<p> Indicates whether warrants are removed upon death. | <strong>boolean</strong></p>
-							</li>
-					</ul>
-
-					<ul>
-
-							<li>
-								<span class="tag parameter">RemoveWarrantOnDeath</span>
-
-
-
-								<p> Indicates whether warrants are removed upon death. | <strong>boolean</strong></p>
-							</li>
-					</ul>
-
-					<ul>
-
-							<li>
-								<span class="tag parameter">WarrantFlag</span>
-
-
-
-								<p> The flag used to denote a warrant. | <strong>string</strong></p>
-							</li>
-					</ul>
-
-					<ul>
-
-							<li>
-								<span class="tag parameter">CanSeeWarrants</span>
-
-
-
-								<p> The privilege required to see warrants. | <strong>table</strong></p>
-							</li>
-					</ul>
-
-					<ul>
-
-							<li>
-								<span class="tag parameter">CanSeeWarrantsNotifications</span>
-
-
-
-								<p> The privilege required to receive warrant notifications. | <strong>table</strong></p>
-							</li>
-					</ul>
 
 
 
