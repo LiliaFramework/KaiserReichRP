@@ -2,13 +2,13 @@
 
 <html>
 	<head>
-		<title>Schema - KaiserReich Documentation</title>
+		<title>Crafting - KaiserReich Documentation</title>
 
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="Schema - KaiserReich Documentation" />
+		<meta property="og:title" content="Crafting - KaiserReich Documentation" />
 		<meta property="og:site_name" content="KaiserReichRP Documentation" />
 
-			<meta property="og:description" content="Schema configuration options." />
+			<meta property="og:description" content="Meta Tables for Crafting." />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro" />
 		<link rel="stylesheet" href="../../ldoc.css" />
@@ -56,7 +56,7 @@ ShouldRadioBeep											</a>
 
 					<ul>
 							<li>
-									<details >
+									<details open>
 									<summary><a href="../../entity meta/crafting/">Crafting</a></summary>
 
 									<ul>
@@ -116,7 +116,7 @@ ResetBAC											</a>
 									</details>
 							</li>
 							<li>
-									<details >
+									<details open>
 									<summary><a href="../../player meta/crafting/">Crafting</a></summary>
 
 									<ul>
@@ -263,7 +263,7 @@ ToggleWanted											</a>
 									</details>
 							</li>
 							<li>
-									<details open>
+									<details >
 									<summary><a href="../../configurations/schema/">Schema</a></summary>
 
 									<ul>
@@ -303,66 +303,37 @@ ToggleWanted											</a>
 			<article>
 					<div class="wrapper">
 						<header class="module">
-	<h1>Schema</h1>
-	<h2>Schema configuration options.</h2>
+	<h1>Crafting</h1>
+	<h2>Meta Tables for Crafting.</h2>
 </header>
 
 <p>
 
-
-<pre><code>This is meant to define the Schema's default information.
-</code></pre>
 </p>
 
-	<h1 class="title">Tables</h1>
+	<h1 class="title">Functions</h1>
 
 		<section class="method">
 			<header>
-				<a class="anchor" id="Configurations">
-					<h1><span class="realm shared"></span></span>Configurations</h1>
+				<a class="anchor" id="CanCraft">
+					<h1><span class="realm shared"></span></span>playerMeta:CanCraft()</h1>
 				</a>
 
-					<p>A list of schema fields that define the gamemode you are making.
- These options are defined by the 'SCHEMA' table.</p>
+					<p>Checks if the player can craft.</p>
 			</header>
 
 
-					<h3>Fields</h3>
 
-
-					<ul>
-
-							<li>
-								<span class="tag parameter">name</span>
-
-
-
-								<p> Controls the name of the schema | <strong>string</strong></p>
-							</li>
-					</ul>
-
-					<ul>
+				<h3>Returns</h3>
+				<ul>
 
 							<li>
-								<span class="tag parameter">author</span>
+									<span class="type">bool</span>
 
-
-
-								<p> Specifies the author of the schema | <strong>string</strong></p>
+								<p>True if the player is alive and has a character, false otherwise.</p>
 							</li>
-					</ul>
 
-					<ul>
-
-							<li>
-								<span class="tag parameter">desc</span>
-
-
-
-								<p> Defines the description of the schema | <strong>string</strong></p>
-							</li>
-					</ul>
-
+				</ul>
 
 
 		</section>
