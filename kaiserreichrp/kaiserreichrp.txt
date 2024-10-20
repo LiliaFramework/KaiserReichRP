@@ -4,4 +4,5 @@
 	"title"		"KaiserReichRP"
 	"author"	"Samael"
 	"category"	"rp"
+	"menusystem"	"1"
 }
